@@ -3,9 +3,13 @@
 Google Drive Integration:
 
 The script mounts Google Drive to access datasets and resources stored there.
+
+
 Required Packages:
 
 It installs ultralytics (for YOLOv8) and opencv-python-headless for image processing.
+
+
 Dataset Configuration:
 
 The script defines a base path to the dataset and prepares a YAML file for training configuration.
